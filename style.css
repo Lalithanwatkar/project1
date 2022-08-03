@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+img{
+    width: 150px;
+    height: 100px;
+    margin: 30px auto;
+    display: block;
+}
+.banner
+{
+    background-color: blue;
+    padding-bottom: 30px;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 50px;
+    font-size: 50px;
+}
